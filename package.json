@@ -27,5 +27,8 @@
   "homepage": "https://github.com/victoriadrake/quint-demo#readme",
   "devDependencies": {
     "js-yaml": "^4.1.0"
+  },
+  "dependencies": {
+    "decap-cms-app": "^3.4.0"
   }
 }
